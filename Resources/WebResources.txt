@@ -1,0 +1,3 @@
+Removing "Non-Empty" directories.
+https://www.cyberciti.biz/faq/how-to-delete-a-non-empty-directory-in-linux-shell/
+Solution: rmdir -rf whateveryourdirectoryis
