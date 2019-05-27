@@ -10,3 +10,5 @@ https://stackoverflow.com/questions/39233973/get-all-keys-of-a-nested-dictionary
 
 Brach Merging with Jupiter
 https://nbdime.readthedocs.io/en/latest/vcs.html
+
+Planb git merge
